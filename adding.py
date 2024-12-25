@@ -15,6 +15,7 @@ numbers = [1, 2, 3, 4, 5]
 total = sum(numbers)
 print("The sum of the list is:", total)
 
+2
 
 def add_numbers(a, b):
     return a + b
